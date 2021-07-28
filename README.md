@@ -1,5 +1,7 @@
 # icd2021projetoFinal
 
+## Ideias para os testes de hipótese
+
 desmatamento/queimadas:
 - esquerda x direita
 - por presidente (por presidente por ano?)
@@ -14,9 +16,10 @@ ac, am, ap, ma, mt, pa, rr, ro, to
 -   produção nos estados da amazônia x produção fora da amazônia
 
 
-TH's:
-Hipótese Nula: não há diferença de desmatamento entre governos de esquerda ou direita;
-Hipotese alternativa: governos de esquerda desmatam menos que governos de direita;
+## Testes de Hipótese
+
+1. (Thiago) Hipótese Nula: não há diferença de desmatamento entre governos de esquerda ou direita;
+   Hipotese alternativa: governos de esquerda desmatam menos que governos de direita;
 
 AMZ LEGAL: Tabela t: alpha = 0.05, upper-tail, df = 15 (graus de liberdade) ---> (1.7531)
 
